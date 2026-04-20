@@ -1,6 +1,6 @@
 # AUTOMATIZACIÓN DE DATOS: MIGRACIÓN DE EXCEL A SQL 🚀
 
-![Vista del Proceso](https://github.com/dymadarnas-lgtm/Excel-to-SQL-Automation/blob/main/dashboard_sql-excel.pngraw=true)
+![Vista del Proceso](https://github.com/dymadarnas-lgtm/Excel-to-SQL-Automation/blob/main/dashboard_sql-excel.png?raw=true)
 
 Este proyecto valida mi capacidad para migrar procesos operativos antiguos basados en hojas de cálculo hacia infraestructuras de datos modernas y escalables.
 
