@@ -1,4 +1,4 @@
-# AUTOMATIZACIÓN DE DATOS: MIGRACIÓN DE EXCEL A SQL 🚀
+# AUTOMATIZACIÓN DE DATOS: MIGRACIÓN DE EXCEL A SQL 
 
 ![Vista del Proceso](https://github.com/dymadarnas-lgtm/Excel-to-SQL-Automation/blob/main/dashboard_sql-excel.png?raw=true)
 
